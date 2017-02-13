@@ -6,3 +6,4 @@ A playground for those who want to learn git
 - Carlos Villagomez
 - Rudy Bermudez
 - Abdullah Alhassan
+- Devin Roche
