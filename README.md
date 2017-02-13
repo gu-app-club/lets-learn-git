@@ -8,3 +8,4 @@ A playground for those who want to learn git
 - Abdullah Alhassan
 - Devin Roche
 - Jeff Wheadon
+- August Murphy-Beach 
