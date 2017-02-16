@@ -11,3 +11,4 @@ A playground for those who want to learn git
 - August Murphy-Beach
 - George Kunthara
 - Will Fraisl 
+- Trevor Flynn
