@@ -9,4 +9,5 @@ A playground for those who want to learn git
 - Devin Roche
 - Jeff Wheadon
 - August Murphy-Beach
-- George Kunthara 
+- George Kunthara
+- Will Fraisl 
