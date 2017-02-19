@@ -1,0 +1,8 @@
+Info of Android Studio Git:
+
+To checkout a repo goto: VCS -> Checkout from Version Control -> GitHub
+Then enter the github url of the repo.
+
+This will clone the repo from GitHub into your Android Studio dev enviroment. 
+
+
