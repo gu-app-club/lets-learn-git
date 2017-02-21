@@ -13,3 +13,7 @@ A playground for those who want to learn git
 - George Kunthara
 - Will Fraisl
 - Trevor Flynn
+- Bradley Carrion
+- Kristina Spring
+- Jacob Krantz
+- Paul Freihoefer
