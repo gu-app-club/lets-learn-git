@@ -13,3 +13,7 @@ A playground for those who want to learn git
 - Will Fraisl
 - Trevor Flynn
 - Evan Conrad
+- Bradley Carrion
+- Kristina Spring
+- Jacob Krantz
+- Paul Freihoefer
