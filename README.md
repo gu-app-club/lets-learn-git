@@ -20,3 +20,4 @@ A playground for those who want to learn git
 - Kristina Spring
 - Jacob Krantz
 - Paul Freihoefer
+- Kevin Tran
