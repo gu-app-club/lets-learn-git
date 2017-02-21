@@ -9,6 +9,7 @@ A playground for those who want to learn git
 - Carlos Villagomez
 - Rudy Bermudez
 - Abdullah Alhassan
+- TJ Durnford
 - August Murphy-Beach
 - Devin Roche
 - Jeff Wheadon
@@ -16,6 +17,10 @@ A playground for those who want to learn git
 - Will Fraisl
 - Trevor Flynn
 - David Hanany
+- Carter Riley
+- Garett Palm
+- Ethan Mahintorabi
+- Evan Conrad
 - Aaron Dodge
 - Garett Palm
 - Ethan Mahintorabi
