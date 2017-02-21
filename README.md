@@ -13,21 +13,18 @@ A playground for those who want to learn git
 - George Kunthara
 - Will Fraisl
 - Trevor Flynn
-
-
-
 - Carter Riley
-
-
 - Garett Palm
 - Ethan Mahintorabi
-
 - Evan Conrad
-
+- Aaron Dodge
+- Garett Palm
+- Ethan Mahintorabi
+- Evan Conrad
 - Bradley Carrion
 - Kristina Spring
 - Jacob Krantz
 - Paul Freihoefer
-
+- Kevin Tran
 - Trevor Farthing
 
