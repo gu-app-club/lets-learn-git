@@ -22,3 +22,4 @@ A playground for those who want to learn git
 - Jacob Krantz
 - Paul Freihoefer
 - Kevin Tran
+- Trevor Farthing
