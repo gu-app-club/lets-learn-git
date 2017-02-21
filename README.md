@@ -2,7 +2,8 @@
 A playground for those who want to learn git
 
 # Sign your name here!
-- Evan Conrad 
+- Kyle McCrohan
+- Evan Conrad
 - Carlos Villagomez
 - Rudy Bermudez
 - Abdullah Alhassan
@@ -10,7 +11,7 @@ A playground for those who want to learn git
 - Devin Roche
 - Jeff Wheadon
 - George Kunthara
-- Will Fraisl 
+- Will Fraisl
 - Trevor Flynn
 - Ethan Mahintorabi
 - Bradley Carrion
