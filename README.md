@@ -15,6 +15,7 @@ A playground for those who want to learn git
 - Trevor Flynn
 - Garett Palm
 - Ethan Mahintorabi
+- Evan Conrad
 - Bradley Carrion
 - Kristina Spring
 - Jacob Krantz
