@@ -15,6 +15,7 @@ A playground for those who want to learn git
 - Trevor Flynn
 
 
+
 - Carter Riley
 
 
@@ -27,3 +28,6 @@ A playground for those who want to learn git
 - Kristina Spring
 - Jacob Krantz
 - Paul Freihoefer
+
+- Trevor Farthing
+
