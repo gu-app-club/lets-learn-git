@@ -6,9 +6,9 @@ A playground for those who want to learn git
 - Carlos Villagomez
 - Rudy Bermudez
 - Abdullah Alhassan
+- August Murphy-Beach
 - Devin Roche
 - Jeff Wheadon
-- August Murphy-Beach
 - George Kunthara
 - Will Fraisl 
 - Trevor Flynn
