@@ -23,3 +23,4 @@ A playground for those who want to learn git
 - Paul Freihoefer
 - Kevin Tran
 - Trevor Farthing
+- Michael Tome
