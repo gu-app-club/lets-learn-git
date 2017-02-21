@@ -2,6 +2,7 @@
 A playground for those who want to learn git
 
 # Sign your name here!
+- Ethan Mahintorabi
 - Kyle McCrohan
 - Evan Conrad
 - Carlos Villagomez
@@ -13,7 +14,6 @@ A playground for those who want to learn git
 - George Kunthara
 - Will Fraisl
 - Trevor Flynn
-- Ethan Mahintorabi
 - Bradley Carrion
 - Kristina Spring
 - Jacob Krantz
