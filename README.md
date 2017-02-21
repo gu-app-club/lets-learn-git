@@ -14,6 +14,8 @@ A playground for those who want to learn git
 - Will Fraisl
 - Trevor Flynn
 - Aaron Dodge
+- Garett Palm
+- Ethan Mahintorabi
 - Evan Conrad
 - Bradley Carrion
 - Kristina Spring
