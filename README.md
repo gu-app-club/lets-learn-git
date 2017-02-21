@@ -2,6 +2,7 @@
 A playground for those who want to learn git
 
 # Sign your name here!
+- Kyle McCrohan
 - Evan Conrad
 - Carlos Villagomez
 - Rudy Bermudez
