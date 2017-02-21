@@ -14,7 +14,12 @@ A playground for those who want to learn git
 - Will Fraisl
 - Trevor Flynn
 
+
 - Carter Riley
+
+
+- Garett Palm
+- Ethan Mahintorabi
 
 - Evan Conrad
 
