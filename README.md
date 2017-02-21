@@ -7,6 +7,7 @@ A playground for those who want to learn git
 - Carlos Villagomez
 - Rudy Bermudez
 - Abdullah Alhassan
+- TJ Durnford
 - August Murphy-Beach
 - Devin Roche
 - Jeff Wheadon
