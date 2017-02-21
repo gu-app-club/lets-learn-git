@@ -13,4 +13,4 @@ A playground for those who want to learn git
 - Will Fraisl 
 - Trevor Flynn
 - Bradley Carrion
-- Kristina Spring
+- Kristina Spring- Jacob Krantz
