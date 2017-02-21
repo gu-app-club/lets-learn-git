@@ -15,3 +15,5 @@ A playground for those who want to learn git
 - Carter Riley
 - Bradley Carrion
 - Kristina Spring
+- Jacob Krantz
+- Paul Freihoefer
