@@ -34,3 +34,4 @@ A playground for those who want to learn git
 - Trevor Greenside
 - Kevin Tran
 - Trevor Farthing
+- Michael Tome
