@@ -33,4 +33,4 @@ A playground for those who want to learn git
 - Trevor Farthing
 - Michael Tome
 - Evelyn Cooper
--John Maxwell Distinti
+
