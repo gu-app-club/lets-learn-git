@@ -34,4 +34,5 @@ A playground for those who want to learn git
 - Michael Tome
 - Evelyn Cooper
 - Max Dulin
+- Judy Amster
 
