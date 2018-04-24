@@ -36,4 +36,4 @@ A playground for those who want to learn git
 - Max Dulin
 - Judy Amster
 - Anna Smith
-
+- Pierce Fleming
