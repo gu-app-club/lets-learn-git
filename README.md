@@ -35,4 +35,4 @@ A playground for those who want to learn git
 - Evelyn Cooper
 - Max Dulin
 - Judy Amster
-
+- Pierce Fleming
