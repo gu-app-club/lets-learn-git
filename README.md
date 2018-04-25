@@ -37,3 +37,4 @@ A playground for those who want to learn git
 - Judy Amster
 - Anna Smith
 - Pierce Fleming
+- Michael Newell
