@@ -38,3 +38,4 @@ A playground for those who want to learn git
 - Anna Smith
 - Pierce Fleming
 - Michael Newell
+- Kevin Mattappally
