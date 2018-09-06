@@ -63,3 +63,129 @@ If you can open your terminal and know what `cd` and `ls` do, then you're good. 
 ### A text editor
 
 You'll need some way to edit raw text files. (IE: Not microsoft word). [Visual Studio Code](https://code.visualstudio.com/) or [Atom](https://atom.io/) are popular free choices.
+
+## Lab Steps
+
+If you missed it during the presentation, you can find the steps here.
+
+### Step 0 - Verify git's installed
+
+If you can type `git` in the terminal and you get something that looks like this:
+
+```sh
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+...
+```
+
+Then your good.
+
+### Step 1 - Clone the repo
+
+First things first, you'll need this github repository.
+
+You can get it by going to [the repo on github](https://github.com/gu-app-club/lets-learn-git), clicking
+on the big green button, and copy/pasting that link into a command like this:
+
+```
+git clone PUT_THE_LINK_HERE
+```
+
+### Step 2 - Make a change to the file
+
+Next, open up the README.md file in a text editor and add your name to the bottom of the list!
+Don't forget to keep up the format!
+
+### Step 3 - "add" your file to your local changes
+
+Next you'll need to add your changes to your local changes:
+
+```
+git add README.md
+```
+
+### Step 4 - Check your "status"
+
+Next, check that all went well with:
+
+```
+git status
+```
+
+It should look something like this:
+
+```sh
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+```
+
+#### Step 5 - "Commit" to your changes
+
+Finally, we'll `commit` our changes with:
+
+```
+git commit -m "Added Grace Hopper"
+```
+
+If you forgot the `-m` and git opened up vim, you can exit
+by pressing `esc` and then typing `:wq` and pressing enter. You'll need to run it again,
+but if you get stuck, ask one of the club leaders for help! (That's why we're here!)
+
+#### Step 6 - "Push" your changes
+
+Now that we're all committed, we need to `push` our commit up to the repository in the cloud (on Github!)
+
+We can do that with:
+
+```
+git push
+```
+
+#### Step 7 (maybe) - "Pull" someone elses changes
+
+If git won't let you push, it may ask you to "pull" the changes before "push"ing.
+
+We can do that with:
+
+```
+git pull
+```
+
+#### Step 8 (maybe) - "Merge" your changes
+
+If git still won't let you push, it's probably because you've hit a merge conflict!
+
+Open up the file in your editor, and you'll see several lines like: `<<<<<<<`.
+
+These create two different groups of text, some that's your changes and some that's
+other people's changes.
+
+It might look something like this:
+
+```
+<<<<<<< HEAD
+- Evan Conrad
+=======
+- You McYouFace
+>>>>>>> branch-a
+```
+
+Your goal is to be the smart human and "merge" these manually. Remove the `<<<`, `>>>`, and `===` markers
+and combine the two pieces of text so it looks something more like this:
+
+```
+- Evan Conrad
+- You McYouFace
+```
