@@ -131,7 +131,7 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
 
-#### Step 5 - "Commit" to your changes
+### Step 5 - "Commit" to your changes
 
 Finally, we'll `commit` our changes with:
 
@@ -143,7 +143,7 @@ If you forgot the `-m` and git opened up vim, you can exit
 by pressing `esc` and then typing `:wq` and pressing enter. You'll need to run it again,
 but if you get stuck, ask one of the club leaders for help! (That's why we're here!)
 
-#### Step 6 - "Push" your changes
+### Step 6 - "Push" your changes
 
 Now that we're all committed, we need to `push` our commit up to the repository in the cloud (on Github!)
 
@@ -153,7 +153,7 @@ We can do that with:
 git push
 ```
 
-#### Step 7 (maybe) - "Pull" someone elses changes
+### Step 7 (maybe) - "Pull" someone elses changes
 
 If git won't let you push, it may ask you to "pull" the changes before "push"ing.
 
@@ -163,7 +163,7 @@ We can do that with:
 git pull
 ```
 
-#### Step 8 (maybe) - "Merge" your changes
+### Step 8 (maybe) - "Merge" your changes
 
 If git still won't let you push, it's probably because you've hit a merge conflict!
 
