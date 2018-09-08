@@ -2,6 +2,8 @@
 
 This is basically a reference guide for the lab today. You're joining a tradition set forth by the founders of GUMAD many years ago: signing the `README.md`!
 
+Find the slides from the lecture at https://lets-learn-git.now.sh. 
+
 ## Prereqs
 
 ### Git!
