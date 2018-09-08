@@ -189,3 +189,11 @@ and combine the two pieces of text so it looks something more like this:
 - Evan Conrad
 - You McYouFace
 ```
+
+Once your done, `git add` your changes:
+
+```
+git add README.md
+```
+
+And then `git commit -m "Merge"`. 
