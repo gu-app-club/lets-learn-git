@@ -48,3 +48,4 @@ A playground for those who want to learn git
 - Carol Joplin
 - John Maxwell Distinti
 - Reid Whitson
+- Nick Latham
