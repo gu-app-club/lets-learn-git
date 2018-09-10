@@ -39,7 +39,7 @@ A playground for those who want to learn git
 - Pierce Fleming
 - Michael Newell
 - Kevin Mattappally
-- Evelyn Cooper Part II
+- Evelyn Cooper 2
 - Carol Joplin
 - John Maxwell Distinti
 
