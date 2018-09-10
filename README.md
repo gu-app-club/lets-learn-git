@@ -40,3 +40,6 @@ A playground for those who want to learn git
 - Michael Newell
 - Kevin Mattappally
 - Evelyn Cooper Part II
+- Carol Joplin
+- John Maxwell Distinti
+
