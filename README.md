@@ -39,6 +39,9 @@ A playground for those who want to learn git
 - Pierce Fleming
 - Michael Newell
 - Kevin Mattappally
+- Eric Av
+-  Max Nelson
+- Alex Giacobbi
 - Carol Joplin
 - John Maxwell Distinti
 - Reid Whitson
