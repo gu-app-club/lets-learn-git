@@ -39,4 +39,6 @@ A playground for those who want to learn git
 - Pierce Fleming
 - Michael Newell
 - Kevin Mattappally
-
+- Carol Joplin
+- John Maxwell Distinti
+- Brandon Niblock
