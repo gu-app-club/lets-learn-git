@@ -40,3 +40,5 @@ A playground for those who want to learn git
 - Michael Newell
 - Kevin Mattappally
 - Alex Giacobbi
+- Carol Joplin
+- John Maxwell Distinti
