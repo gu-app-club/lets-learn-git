@@ -39,5 +39,14 @@ A playground for those who want to learn git
 - Pierce Fleming
 - Michael Newell
 - Kevin Mattappally
+<<<<<<< HEAD
 - Brandon Niblock
 
+=======
+- Eric Av
+-  Max Nelson
+- Alex Giacobbi
+- Carol Joplin
+- John Maxwell Distinti
+- Reid Whitson
+>>>>>>> 0f026c93c2e20307a242ad21a08db980ca645182
