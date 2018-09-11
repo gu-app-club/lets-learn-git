@@ -39,4 +39,8 @@ A playground for those who want to learn git
 - Pierce Fleming
 - Michael Newell
 - Kevin Mattappally
+<<<<<<< HEAD
 - Carol Joplin
+=======
+- John Maxwell Distinti
+>>>>>>> 483eb071095f1dd400e0185f3c121a0d941a6a53
