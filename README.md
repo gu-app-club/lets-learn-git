@@ -40,5 +40,5 @@ A playground for those who want to learn git
 - Michael Newell
 - Kevin Mattappally
 - Eric Av
-- Max Nelson
+-  Max Nelson
 
