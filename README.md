@@ -39,4 +39,4 @@ A playground for those who want to learn git
 - Pierce Fleming
 - Michael Newell
 - Kevin Mattappally
-- Brandon Niblock
+
