@@ -3,7 +3,7 @@ A playground for those who want to learn git
 
 # Sign your name here!
 
-
+- Andrew Yang
 - Kyle McCrohan
 - Evan Conrad
 - Carlos Villagomez
@@ -42,4 +42,16 @@ A playground for those who want to learn git
 - Daniel Strub
 - Carol Joplin
 - John Maxwell Distinti
-
+- Brandon Niblock
+- Ayla McKorkle
+- Alex Giacobbi
+- Evelyn Cooper 2
+- Carol Joplin
+- John Maxwell Distinti
+- Eric Av
+-  Max Nelson
+- Alex Giacobbi
+- Carol Joplin
+- John Maxwell Distinti
+- Reid Whitson
+- Nick Latham
