@@ -41,3 +41,4 @@ A playground for those who want to learn git
 - Kevin Mattappally
 - Carol Joplin
 - John Maxwell Distinti
+- Reid Whitson
